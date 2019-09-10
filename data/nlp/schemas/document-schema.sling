@@ -131,7 +131,7 @@
   }
 }
 
-# TODO: 'alias' conflicts with profile.alias
+; TODO: 'alias' conflicts with profile.alias
 {=alias +named :schema
   name: "Alias"
   family: /schema/document
